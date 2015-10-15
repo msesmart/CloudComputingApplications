@@ -16,7 +16,6 @@ import scala.Tuple2;
 
 
 public final class KMeansMP {
-	// TODO
 	
 	private static class ParsePoint implements Function<String, Vector> {
         private static final Pattern SPACE = Pattern.compile(",");
