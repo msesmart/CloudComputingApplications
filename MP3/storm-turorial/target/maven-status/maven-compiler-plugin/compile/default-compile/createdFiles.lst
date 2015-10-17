@@ -1,4 +1,0 @@
-WordCountTopology.class
-WordCountBolt.class
-SplitSentenceBolt.class
-RandomSentenceSpout.class
